@@ -23,6 +23,12 @@ layout: page
 
 > 你猜啊
 
+My favorite aphorisms?
+
+> It's just a leap of faith!
+>
+> Life is more than just what you see before your eyes, there is also poetry and distant lands. 
+
 想进一步了解我？
 
 > s4ferm4n@gmail.com
