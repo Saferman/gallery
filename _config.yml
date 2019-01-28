@@ -1,4 +1,4 @@
-name: "rusty shutter"
+name: "Far Away"
 permalink: /:year/:month/:day/:title.html
 
 author: "Saferman"
@@ -16,9 +16,6 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: http://foto.lhzhang.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
