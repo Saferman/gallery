@@ -1,8 +1,8 @@
 name: "rusty shutter"
 permalink: /:year/:month/:day/:title.html
 
-author: "wayne"
-atom-baseurl: "http://saferman.github.io"
+author: "Saferman"
+atom-baseurl: "https://saferman.github.io"
 disqus: "gopherwood"
 
 navigations:
