@@ -2,6 +2,7 @@ name: "rusty shutter"
 permalink: /:year/:month/:day/:title.html
 
 author: "Saferman"
+baseurl: "https://saferman.github.io/gallery"
 atom-baseurl: "https://saferman.github.io/gallery"
 disqus: "gopherwood"
 
