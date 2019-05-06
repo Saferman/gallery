@@ -63,6 +63,6 @@ tags:
 
 关于晚上的行程要是详细介绍都可以再写一篇文章了，这里就只再贴出自己录的老门东的秦淮灯会抖音：
 
-<iframe width="480" height="360" src="https://saferman.github.io/gallery/assets/video/lmd.mp4" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://saferman.github.io/gallery/assets/video/lmd.mp4?a=1" frameborder="0"> </iframe>
 
 最后，真的真的很感谢这次为我做全规划的小萌花，虽然因为清明那几天学业的事情无法完整地陪你走完全部的规划内容，但是因为你的存在，整个四月对我而言都是粉粉的~^_^。就像我们这次南京之旅一样，也许我们的未来充满忙碌、疲惫和思念，但是我会一直一直陪你走过这世间的喧嚣繁华，看遍人生美景。
