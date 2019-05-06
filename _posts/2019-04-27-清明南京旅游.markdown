@@ -1,5 +1,5 @@
 ---
-title: My first journey to Nanjing :-)
+title: 第一次南京之旅 :-)
 layout: post
 date: 2019-04-27 18:33:10
 tags:
@@ -13,23 +13,23 @@ tags:
 
 南京是六朝古都，十代都会。相比之下自己小的时候以为成都是我见过最美的城市，有着美食，美景，蜀国文化。然而我自己实地到南京之后深深地被这座城市的风景和故事吸引。下图是我在网上找的南京景点图，市中心怎么能有这么多风景名胜！
 
-![](../assets/img/nanjing/spots.gif)
+![](https://saferman.github.io/gallery/assets/img/nanjing/spots.gif)
 
 在这次南京之旅中，我们几乎没有车程超过一个小时的，景点与景点，景点与美食街之间的距离都太近了。整个城市元素齐备，有夫子庙、鸡鸣寺，也有秦淮河、护城河，还有中山陵、明孝陵，当然还有美食街。
 
 想起小时候在书本上看到共产党在解放南京后把旗帜插到南京总统府的图片，当时还觉得总统府的门一定非常高，实地去看后才发现并没有印象中的那么高（233），不过气势仍然十足。
 
-![](../assets/img/nanjing/zongtongfu.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/zongtongfu.jpg)
 
 南京总统府是中国最大的近现代历史博物馆，具有与一般名胜古迹无可比拟的历史文化价值。
 
 庄严静谧的总统府给人一种厚重、沉重和压抑的感觉，也许是南京这个饱经沧桑的城市，曾一次次定都，又一次次地沧陷，饱受蹂躏的历史使然。顺着印满历史痕迹的青砖路向前走，会看到四根红柱子，上面有一块匾额，写着“**天下为公**”四个大字，这就是孙中山的题词，也是他一生追求的理想。
 
-![](../assets/img/nanjing/gghz.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/gghz.jpg)
 
 南京总统府门前的漪澜阁，风景如画，[景色](http://www.haociju.com/haocihaoju/jingse/)宜人，亭台楼阁，花团锦绣，不亚于留园，何园和个园，别有一番惬意和舒逸。但是当你在读过历史的沧桑后再走出，走进那洼盈盈的绿中，面对小湖中微微泛起的漾动的漪澜，定是心潮起伏，久久难以平抑。
 
-![](../assets/img/nanjing/flower1.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/flower1.jpg)
 
 参观完总统府我们去了旁边著名的1912，一条文艺街，有很多有纪念意义的手工品可以购买。下面有关于1912的介绍当然在这还和我的小可爱拍摄了意义非凡的纪念照~~
 
@@ -37,25 +37,23 @@ tags:
 
 下午我们去了明孝陵，明代开国皇帝朱元璋和皇后马氏的合葬陵墓。
 
-![](../assets/img/nanjing/mxl.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/mxl.jpg)
 
 晚上本来是计划要去参观夫子庙或者去玩摩天轮的，但是清明那周自己被一个 360 DNS 大数据比赛搞得太忙了，尤其是清明刚好是截止前几天，我们的模型又出了问题就不停地查阅资料，思考解决方法，害得我们不得不取消旅游行程，非常非常的难受。这天晚上熬了好久的夜导致第二天下午不得不得早点回去睡觉。多谢队友能在我去南京的这几天那么的给力，赞一个:-)
 
 （事后补充：最终因为我们队伍是比赛出题方同一个实验室的无法参与排名，害的我们这支队伍瞎忙活了那么久，血亏！以后再也不随笔熬夜了。熬夜的工作大部分都是无效的！）
 
-不过我还是非常感谢在期间理解我、愿意陪我熬夜的同行伙伴，谢谢你 mua~ 
-
 第二天一早我们就去参观了鸡鸣寺。这座寺庙和玄武湖是挨在一起的，而且中间有一片非常高的古城墙，风景甚好。站在鸡鸣寺的山顶可以眺望整个玄武湖。
 
 刚好这次我们赶上了2019南京玄武湖樱花节，不得不说自己宅了几个月的小心脏真的被南京的美景打动了——玄武湖畔的杨柳，鸡鸣寺的樱花大道，小桃园的桃花，四处可见的二月。忍不住感叹：金陵城的春最是不同！
 
-![](../assets/img/nanjing/jms.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/jms.jpg)
 
-![](../assets/img/nanjing/xwh.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/xwh.jpg)
 
 南京的绿化做的是真的不错，路边随处可见的美景：
 
-![](../assets/img/nanjing/lbmj.jpg)
+![](https://saferman.github.io/gallery/assets/img/nanjing/lbmj.jpg)
 
 晚上，我们直奔南京著名的秦淮河、夫子庙、老门东这三个景点。一路上我们除了欣赏风景，吃美食，还一起探讨南京的历史和文化。甚至我还回忆出自己的祖根是从江南这一带发源的故事，23333。
 
@@ -65,6 +63,6 @@ tags:
 
 关于晚上的行程要是详细介绍都可以再写一篇文章了，这里就只再贴出自己录的老门东的秦淮灯会抖音：
 
-<iframe width="480" height="360" src="../assets/video/lmd.mp4" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://saferman.github.io/gallery/assets/video/lmd.mp4" frameborder="0"> </iframe>
 
 最后，真的真的很感谢这次为我做全规划的小萌花，虽然因为清明那几天学业的事情无法完整地陪你走完全部的规划内容，但是因为你的存在，整个四月对我而言都是粉粉的~^_^。就像我们这次南京之旅一样，也许我们的未来充满忙碌、疲惫和思念，但是我会一直一直陪你走过这世间的喧嚣繁华，看遍人生美景。
