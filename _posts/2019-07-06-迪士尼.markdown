@@ -98,8 +98,7 @@ tags:
 
 
 
-<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
-
+<link href="https://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
 <script src="https://saferman.github.io/gallery/assets/js/video.js"></script>
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
