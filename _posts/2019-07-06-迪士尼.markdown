@@ -95,11 +95,10 @@ tags:
 #### 飞跃地平线 —— 裸眼环游世界
 
 #### 迪士尼烟花全程
-<link href="https://saferman.github.io/gallery/assets/js/video-js.css" rel="stylesheet">
-<script src="https://saferman.github.io/gallery/assets/js/video.js"></script>
+
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
-<source src="http://47.240.27.68/lmd.mp4" type="video/mp4">
+<source src="http://47.240.27.68/yanhua.mp4" type="video/mp4">
 </video>
 
 
