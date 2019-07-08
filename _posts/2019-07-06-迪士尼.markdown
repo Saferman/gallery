@@ -99,7 +99,7 @@ tags:
 <script src="https://saferman.github.io/gallery/assets/js/video.js"></script>
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
-<source src="http://47.240.27.68/yanhua.flv" type="video/x-flv">
+<source src="http://47.240.27.68/lmd.mp4" type="video/mp4">
 </video>
 
 
