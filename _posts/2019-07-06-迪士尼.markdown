@@ -36,17 +36,13 @@ tags:
 
 #### 如何避免排队三小时玩耍二分钟的场面？
 
-1、使用上海迪士尼度假区APP，早点入场抢快速通道票
-  注意：我那天八点到迪士尼地铁站，排队入场等等进去就没有任何热门项目的快速通道票了
-  建议下次到达迪士尼乐园时间七点最佳
+1、使用上海迪士尼度假区APP，早点入场抢快速通道票。注意：我那天八点到迪士尼地铁站，排队入场等等进去就没有任何热门项目的快速通道票了。建议下次到达迪士尼乐园时间七点最佳。
 
-2、购买尊享卡，可以选择三个项目的快速通道，比如飞跃地平线，可以把排队时间又150分钟缩减到30分钟甚至更少
+2、购买尊享卡，可以选择三个项目的快速通道，比如飞跃地平线，可以把排队时间又150分钟缩减到30分钟甚至更少。
 
-3、单人通道，如果你是一个人很多项目有单人通道，这个排队时间少。
+3、单人通道，如果你是一个人很多项目有单人通道，这个排队时间少。加勒比海盗我就玩了二次，第一次进去只用了30秒。
 
-  加勒比海盗我就玩了二次，第一次进去只用了30秒
-
-4、晚上的烟花八点半开始，但是六点就开始在米奇大街排队了
+4、晚上的烟花八点半开始，但是六点就开始在米奇大街排队了。
 
 #### 迪士尼乐园是个游乐园嘛？
 
@@ -96,6 +92,7 @@ tags:
 <script src="https://saferman.github.io/gallery/assets/js/video.js"></script>
 
 #### 加勒比海盗 —— 身临其境的4D电影
+
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
 <source src="http://47.240.27.68/lmd.mp4" type="video/mp4">
@@ -107,7 +104,10 @@ tags:
 <source src="http://47.240.27.68/fydpx.mp4" type="video/mp4">
 </video>
 #### 迪士尼烟花全程
-
-
+超级美的烟花，极其浪漫
+<video id="video1" class="video-js vjs-default-skin" width="640" height="480"
+        data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
+<source src="http://47.240.27.68/yanhua.mp4" type="video/mp4">
+</video>
 
 
