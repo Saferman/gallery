@@ -96,11 +96,14 @@ tags:
 
 #### 迪士尼烟花全程
 
-<iframe>
+
+
+<link href="http://vjs.zencdn.net/c/video-js.css" rel="stylesheet">
+
 <script src="https://saferman.github.io/gallery/assets/js/video.js"></script>
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
 <source src="https://saferman.github.io/gallery/assets/video/lmd.mp4" type="video/mp4">
 </video>
-</iframe>
+
 
