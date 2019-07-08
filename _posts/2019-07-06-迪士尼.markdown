@@ -102,7 +102,10 @@ tags:
 </video>
 #### 飞跃地平线 —— 裸眼环游世界
 
-
+<video id="video1" class="video-js vjs-default-skin" width="640" height="480"
+        data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
+<source src="http://47.240.27.68/fydpx.mp4" type="video/mp4">
+</video>
 #### 迪士尼烟花全程
 
 
