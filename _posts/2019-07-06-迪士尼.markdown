@@ -7,7 +7,7 @@ tags:
   - shanghai
 ---
 
-我最喜欢的一句话：	**全世界都在催着你长大，只有迪士尼在守护着你的童话**！
+去过迪士尼，只想感叹一句：	**全世界都在催着你长大，只有迪士尼在守护着你的童话**！
 
 ![](https://saferman.github.io/gallery/assets/img/disney.jpg)
 
@@ -108,6 +108,12 @@ tags:
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
         data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
 <source src="http://47.240.27.68/yanhua.mp4" type="video/mp4">
+</video>
+#### 花车巡游 
+一天下来会有非常多的巡游，足够你看个爽
+<video id="video1" class="video-js vjs-default-skin" width="640" height="480"
+        data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
+<source src="http://47.240.27.68/hcxy.mp4" type="video/mp4">
 </video>
 
 
