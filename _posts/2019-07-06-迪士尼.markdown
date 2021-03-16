@@ -124,8 +124,11 @@ tags:
 
 #### 加勒比海盗 —— 身临其境的4D电影
 
-<a href="http://47.240.27.68/jlbhd.mp4">点我跳转</a>
 
+<video id="video1" class="video-js vjs-default-skin" width="640" height="480"
+        data-setup='{"controls" : true, "autoplay" : false, "preload" : "None"}'>
+<source src="http://47.240.27.68/jlbhd.mp4" type="video/mp4">
+</video>
 #### 飞跃地平线 —— 裸眼环游世界
 
 <video id="video1" class="video-js vjs-default-skin" width="640" height="480"
